@@ -10,6 +10,6 @@
 - Login and Signup with firebase auth
 
 ## Features not implemented
-- [] Save Pokemons in a list that is saved to each user profile
-- [] Add Pokemon info
-- [] Add Pokemon Evolution
+-  Save Pokemons in a list that is saved to each user profile
+-  Add Pokemon info
+-  Add Pokemon Evolution
